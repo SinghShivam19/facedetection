@@ -1,0 +1,7 @@
+av
+keras
+mediapipe
+numpy
+opencv_python_headless
+streamlit
+streamlit_webrtc
